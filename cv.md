@@ -3,7 +3,7 @@
 * Location: Kazan, Russia 
 * Phone: +7 939 308 23 19
 * Email: galimkhann@gmail.com
-* GitHub: [GitHub](https://github.com/MilesYoun9)
+* GitHub: [MilesYoun9](https://github.com/MilesYoun9)
 ## About Me: 
 For personal interest, I study programming, and in particular front-end, get energy from working with people, interensoogo communication. Therefore, when choosing a place to work is the most important thing for me. 
 ##Skills: 
@@ -12,9 +12,9 @@ For personal interest, I study programming, and in particular front-end, get ene
 * __JS__ 0.5/5
 * __Git__ 1/5
 ## Code Example: 
-`function sum(a, b) {
+'function sum(a, b) {
   return a + b;
 }
 
 let result = sum(1, 2);
-alert( result );`
+`alert( result );`
