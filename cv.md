@@ -41,8 +41,8 @@ __05/2021-11/2021__
 * Raised the level of writing sales texts.
 * Gained knowledge of many sales tools.
 ## Education:
-__Kazan Federal Univercity - 2021-2024__ - Bachalor of Management 
-__Google & Coursera - 01/2022-05/2022__ - Google & Coursera, Project Management Cerfiticate
-__Hyperskill Academy (JetBrains) - 05/2022-08/2022__ - Web Developer
+__Kazan Federal Univercity - 2021-2024__ - Bachalor of Management \n
+__Google & Coursera - 01/2022-05/2022__ - Google & Coursera, Project Management Cerfiticate \n 
+__Hyperskill Academy (JetBrains) - 05/2022-08/2022__ - Web Developer \n 
 
 
