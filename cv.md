@@ -40,5 +40,9 @@ __05/2021-11/2021__
 * Learned to work in BlueSales.
 * Raised the level of writing sales texts.
 * Gained knowledge of many sales tools.
+## Education:
+__Kazan Federal Univercity - 2021-2024__ - Bachalor of Management 
+__Google & Coursera - 01/2022-05/2022__ - Google & Coursera, Project Management Cerfiticate
+__Hyperskill Academy (JetBrains) - 05/2022-08/2022__ - Web Developer
 
 
